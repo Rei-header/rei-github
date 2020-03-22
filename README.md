@@ -3,4 +3,4 @@ GitHub練習用
 
 問題修正しました！
 
-issues完了
+issues完了!
